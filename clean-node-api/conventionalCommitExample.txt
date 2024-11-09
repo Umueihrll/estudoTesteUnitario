@@ -1,0 +1,18 @@
+<type>[optional scope]: <description>
+
+Follow this template.
+
+Types of commits:
+
+feat: introduces a new feature
+fix: fixes a bug or error
+perf: improves performance
+docs: documents changes or updates to documentation
+test: adds or updates tests
+build: changes to the build process or configuration
+refactor: refactors code without changing functionality
+style: changes to code style or formatting
+chore: changes to the project’s infrastructure or setup
+temp: temporary experimental or exploratory changes
+revert: reverts a previous commit
+BREAKING CHANGE: indicates a non-backwards compatible change
